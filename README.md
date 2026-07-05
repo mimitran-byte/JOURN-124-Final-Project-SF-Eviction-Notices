@@ -1,1 +1,16 @@
-# JOURN-124-Final-Project-SF-Eviction-Notices
+# SF Eviction Notices
+
+## Introduction
+Introduction text.
+
+## Analysis
+Analysis text.
+
+## Visualization
+Visualization text.
+
+## Ethics & Reporting
+Ethics text.
+
+## Conclusion
+Conclusion text.
