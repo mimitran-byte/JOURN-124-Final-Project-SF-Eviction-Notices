@@ -21,7 +21,7 @@ It was also identified that eviction notices seem to be trending downwards over 
 
 
 ## Visualization
-Please see repository for SF Eviction Notices by Neighborhood (1997 to 2026) Bar Graph and SF Eviction Notices by Year (1997 to 2026) Line Graph.
+Please see repository files for SF Eviction Notices by Neighborhood (1997 to 2026) Bar Graph and SF Eviction Notices by Year (1997 to 2026) Line Graph. See data source at [DataSF](https://data.sfgov.org/Housing-and-Buildings/Eviction-Notices/5cei-gny5/about_data).
 
 ## Conclusion, Ethics, & Reporting
 Eviction notice data is important because it can illustrate housing issues and trends that shape public policy decisions. Local governments can use this data to evaluate housing laws and policies and reallocate resources to affordable housing and rental assistance.
