@@ -1,5 +1,6 @@
 # SF Eviction Notices Explode: Is It The AI Boom?
 July 5, 2026
+
 Last June, both [The San Francisco Standard](https://sfstandard.com/2026/06/22/nob-hill-landlord-evicts-rent-control/) and [KQED](https://www.kqed.org/news/12088339/san-francisco-chinatown-tenants-form-union-as-evictions-loom) reported that long-term residents in neighborhoods such as Nob Hill and Chinatown were facing mass eviction notices. This sudden increase in eviction notices come as rent has surged over the past year and gentrification concerns continue to grow — notably amid the AI boom.
 
 This report explores which neighborhoods are facing the highest rates of eviction notices, if the increase in eviction notices reflect similar events in the past, and if these increases reflect gentrification trends and the AI boom.
