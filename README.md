@@ -5,7 +5,7 @@ This report explores which neighborhoods are facing the highest rates of evictio
 
 
 ## Introduction
-The eviction notice data was sourced from DataSF, San Francisco’s Open Data Portal. Eviction data is filed with the San Francisco Rent Board per San Francisco Administrative Code 37.9(c). Since the data is sourced from a government department, it is a trustworthy source, however, eviction notice data has significant limitations.
+The eviction notice data was sourced from [DataSF](https://data.sfgov.org/Housing-and-Buildings/Eviction-Notices/5cei-gny5/about_data), San Francisco’s Open Data Portal. Eviction data is filed with the San Francisco Rent Board per San Francisco Administrative Code 37.9(c). Since the data is sourced from a government department, it is a trustworthy source, however, eviction notice data has significant limitations.
 
 Eviction notice data only documents notices filed with the SF Rent Board. Landlords may use informal notices which are absent from the database that relies on formal filings.
 
@@ -13,7 +13,7 @@ Eviction notice data also does not provide information on whether a landlord and
 
 
 ## Methods, Analysis, & Limitations
-Google Sheets and its pivot table function were used to identify which neighborhood had the most eviction notices and to identify eviction notices over time, particularly which years had the highest and lowest eviction notices.
+[Google Sheets](https://docs.google.com/spreadsheets/d/1BR6KpJuDX5APjsGmCqta-DyFe54WvlWDHMaI3L14PXw/edit?usp=sharing) and its pivot table function were used to identify which neighborhood had the most eviction notices and to identify eviction notices over time, particularly which years had the highest and lowest eviction notices.
 
 It was identified that the Mission District had the most eviction notices over almost two decades, with 5,547 notices out of 48,566 total notices or 11.42% of all eviction notices. This data does reflect some of the gentrification trends and concerns (particularly displacement) in the Mission District, however, the data alone does not account for population density, property types, and tenant demographics. Neighborhoods with higher population density will generate more eviction notices because more people are living there. Neighborhoods with more multi-family properties and tenants will also generate more eviction notices compared to a neighborhood with more single-family homes and home owners. Eviction notice data also does not collect socioeconomic or demographic information, so displacement of long-term residents, working class families, and racial and ethnic minorities (all of which is used to measure gentrification) is not considered.
 
