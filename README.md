@@ -12,7 +12,7 @@ Eviction notice data only documents notices filed with the SF Rent Board. Landlo
 Eviction notice data also does not provide information on whether a landlord and tenant resolved the issue, reached a settlement, or a tenant was evicted. Notices only reflect a landlord’s intent to evict a tenant, it does not reflect tenant outcomes.
 
 
-## Analysis
+## Methods, Analysis, & Limitations
 Google Sheets and its pivot table function were used to identify which neighborhood had the most eviction notices and to identify eviction notices over time, particularly which years had the highest and lowest eviction notices.
 
 It was identified that the Mission District had the most eviction notices over almost two decades, with 5,547 notices out of 48,566 total notices or 11.42% of all eviction notices. This data does reflect some of the gentrification trends and concerns (particularly displacement) in the Mission District, however, the data alone does not account for population density, property types, and tenant demographics. Neighborhoods with higher population density will generate more eviction notices because more people are living there. Neighborhoods with more multi-family properties and tenants will also generate more eviction notices compared to a neighborhood with more single-family homes and home owners. Eviction notice data also does not collect socioeconomic or demographic information, so displacement of long-term residents, working class families, and racial and ethnic minorities (all of which is used to measure gentrification) is not considered.
